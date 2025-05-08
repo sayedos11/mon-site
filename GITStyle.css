@@ -1,4 +1,6 @@
 p {
-align:left;
-width:250px;
+    align: left;
+    width: 250px;
+    background-color: aqua;
+    padding right: 25px;
 }
